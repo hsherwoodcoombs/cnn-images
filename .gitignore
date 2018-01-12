@@ -1,12 +1,8 @@
-DogVGG16Data.npzbottleneck_features/DogVGG16Data.npz
-/dogImages
-/lfw
 .ipynb_checkpoints/
-_MACOSX/
 bottleneck_features/DogVGG16Data.npz
 .DS_Store
 dogImages/
 lfw/
 saved_models/
-_MACOSX/
 __MACOSX/
+.idea/
